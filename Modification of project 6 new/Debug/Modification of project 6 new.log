@@ -1,0 +1,25 @@
+﻿Build started 12/03/2017 10:29:05 PM.
+     1>Project "C:\Users\zakaa\Documents\Visual Studio 2015\Projects\Modification of project 6 new\Modification of project 6 new\Modification of project 6 new.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\zakaa\OneDrive\C++ Concepts\Creating exel file\libxl-win-3.7.2\libxl-3.7.2.0\include_cpp" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\zakaa\documents\visual studio 2015\projects\modification of project 6 new\modification of project 6 new\source.cpp(72): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\direct.h(108): note: see declaration of 'mkdir'
+     1>c:\users\zakaa\documents\visual studio 2015\projects\modification of project 6 new\modification of project 6 new\source.cpp(73): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\direct.h(108): note: see declaration of 'mkdir'
+     1>c:\users\zakaa\documents\visual studio 2015\projects\modification of project 6 new\modification of project 6 new\source.cpp(75): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\direct.h(108): note: see declaration of 'mkdir'
+     1>c:\users\zakaa\documents\visual studio 2015\projects\modification of project 6 new\modification of project 6 new\source.cpp(281): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\zakaa\documents\visual studio 2015\projects\modification of project 6 new\modification of project 6 new\source.cpp(340): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\zakaa\documents\visual studio 2015\projects\modification of project 6 new\modification of project 6 new\source.cpp(445): warning C4715: 'InputHandler::mainmenu': not all control paths return a value
+     1>c:\users\zakaa\documents\visual studio 2015\projects\modification of project 6 new\modification of project 6 new\source.cpp(213): warning C4715: 'signup::Inputsignup': not all control paths return a value
+     1>c:\users\zakaa\documents\visual studio 2015\projects\modification of project 6 new\modification of project 6 new\source.cpp(228): warning C4715: 'signup::dealingwithusername': not all control paths return a value
+     1>c:\users\zakaa\documents\visual studio 2015\projects\modification of project 6 new\modification of project 6 new\source.cpp(262): warning C4715: 'signup::dealingwithpassword': not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\zakaa\Documents\Visual Studio 2015\Projects\Modification of project 6 new\Debug\Modification of project 6 new.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\zakaa\OneDrive\C++ Concepts\Creating exel file\libxl-win-3.7.2\libxl-3.7.2.0\lib64" libxl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\zakaa\Documents\Visual Studio 2015\Projects\Modification of project 6 new\Debug\Modification of project 6 new.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\zakaa\Documents\Visual Studio 2015\Projects\Modification of project 6 new\Debug\Modification of project 6 new.lib" /MACHINE:X86 Debug\Source.obj
+         Modification of project 6 new.vcxproj -> C:\Users\zakaa\Documents\Visual Studio 2015\Projects\Modification of project 6 new\Debug\Modification of project 6 new.exe
+     1>Done Building Project "C:\Users\zakaa\Documents\Visual Studio 2015\Projects\Modification of project 6 new\Modification of project 6 new\Modification of project 6 new.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.80
